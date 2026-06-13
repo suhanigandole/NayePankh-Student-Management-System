@@ -49,6 +49,14 @@ NayePankh_Student_Management
 6. Generate Report
 7. Exit
 
+## Screenshots
+1. Add Student
+2. View Students
+3. Search Student
+4. Filter By Course
+5. Delete Student
+6. Generate Report
+
 ## Future Improvements
 
 * Graphical User Interface (Tkinter)
